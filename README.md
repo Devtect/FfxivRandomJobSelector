@@ -12,7 +12,7 @@ The code is structured as follows:
 
 ```
 - index.html
-- app.js
+- index.js
 - style.css
 ```
 
@@ -28,7 +28,7 @@ The results are displayed in an unordered list (`ul`) with a class of `list`. Ea
 
 ## JavaScript Logic
 
-The `app.js` file contains a function that listens for a click event on each of the buttons. When a button is clicked, the `result` section is updated with a list of jobs corresponding to the button pressed.
+The `index.js` file contains a function that listens for a click event on each of the buttons. When a button is clicked, the `result` section is updated with a list of jobs corresponding to the button pressed.
 
 ## TODO
 

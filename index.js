@@ -1,10 +1,10 @@
-// Array of words for button 1
+// Array of jobs for tank button
 var tank_names = ["Dark Knight", "Paladin", "Gunbreaker", "Warrior"];
 
-// Array of words for button 2
+// Array of jobs for healer button
 var healer_name = ["White Mage", "Sage", "Scholar", "Astrologian"]
 
-// Array of words for button 3
+// Array of jobs for dps button
 var dps_names = ["Bard", "Black Mage", "Dancer", "Dragoon", "Machinist", "Monk", "Ninja", "Red Mage", "Samurai", "Summoner"];
 
 // Select the button elements
